@@ -1,7 +1,6 @@
 # Machine Learning Books & Courses
 
-The following is a list of books I have read and course I have taken on the
-subject.
+The following is a list of books I have read and courses I have taken on the field of machine learning and AI.
 
 ## Books
 - Deep Learning With Python by Francois Chollet
